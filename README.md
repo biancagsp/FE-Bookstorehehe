@@ -1,4 +1,4 @@
-<img src="./src/assets/circles.png" height="250px" align="right"/>
+<img src="./public/circles.png" height="250px" align="right"/>
 
 <h1 align="center">BOOKSTORE HEHE </h1>
 
